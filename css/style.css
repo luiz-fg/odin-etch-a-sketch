@@ -12,16 +12,6 @@
     margin: 0 auto;
 }
 
-.square {
-    background-color: rgb(250, 250, 250);
-    background-color: transparent;
-    opacity: 0.1;
-}
-
-.square:hover {
-    background-color: gold;
-}
-
 button#resize {
     border: none;
     display: block;
@@ -30,12 +20,12 @@ button#resize {
     width: 100px;
     height: 50px;
     cursor: pointer;
-
+    border: 2px solid transparent;
 }
 
 button#resize:hover {
-
     background-color: aliceblue;
     color: #4b7b8b;
+    border-color: #4b7b8b;
 }
 
