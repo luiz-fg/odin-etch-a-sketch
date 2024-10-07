@@ -47,8 +47,6 @@ function setColor() {
             if(backgroundColor === 'rgba(0, 0, 0, 0)') {
                 square.setAttribute('style', squareOpacity)
             }
-        
-
     })
 
     

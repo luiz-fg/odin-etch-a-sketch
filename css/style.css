@@ -30,9 +30,12 @@ button#resize {
     width: 100px;
     height: 50px;
     cursor: pointer;
+
 }
 
 button#resize:hover {
-    background-color: rgb(75, 123, 139);
-    color: lightblue;
+
+    background-color: aliceblue;
+    color: #4b7b8b;
 }
+
